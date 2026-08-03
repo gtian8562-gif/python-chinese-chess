@@ -24,3 +24,4 @@
 1. 下載或複製本專案：
    ```bash
    git clone [https://github.com/gtian8562-gif/python-chinese-chess/tree/main](https://github.com/gtian8562-gif/python-chinese-chess/tree/main)
+執行python3 chess.py/python chess.py
